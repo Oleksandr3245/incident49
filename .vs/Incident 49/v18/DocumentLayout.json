@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Incident 49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BAD40-9515-6176-312D-060AF65FBBD3}|Assembly-CSharp.csproj|D:\\Incident 49\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BAD40-9515-6176-312D-060AF65FBBD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6BAD40-9515-6176-312D-060AF65FBBD3}|Assembly-CSharp.csproj|D:\\Incident 49\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6BAD40-9515-6176-312D-060AF65FBBD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Incident 49\\Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderPipelineGlobalSettingsUtils.cs",
+              "DocumentMoniker": "D:\\Incident 49\\Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs",
+              "ToolTip": "D:\\Incident 49\\Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@e13fb214c240\\Runtime\\RenderPipeline\\RenderPipelineGlobalSettingsUtils.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAiwH4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:33:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "D:\\Incident 49\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "D:\\Incident 49\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:33:33.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Incident 49\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Incident 49\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv0YAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T01:33:33.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
